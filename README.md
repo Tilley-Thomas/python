@@ -6,5 +6,3 @@ This is the README for my own Git repo.
 
 'Some Code'
 
-My Token is:
-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
